@@ -1744,7 +1744,21 @@
             "email":"sharvari1@gmail.com",
             "password":"123456@",
             "id":1
+        },
+        {
+          "firstname":"john",
+          "lastname":"doe",
+          "email":"johndoe@gmail.com",
+          "password":"john@123",
+          "id":2
+      },
+      {
+        "firstname":"jane",
+        "lastname":"mary",
+        "email":"janemary@gmail.com",
+        "password":"jane@123",
+        "id":2
         }
-     ]
+       ]
     
   }
