@@ -1,0 +1,26 @@
+{
+  "name": "gemgarden_backend_server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharvarihupare-369/gemgarden_backend_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharvarihupare-369/gemgarden_backend_server/issues"
+  },
+  "homepage": "https://github.com/sharvarihupare-369/gemgarden_backend_server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
